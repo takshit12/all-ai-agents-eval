@@ -9,7 +9,6 @@ This repository contains the same agent examples written in several different fr
 Clone this repo and navigate to any of the examples:
 
 ```bash
-git clone https://github.com/langwatch/create-agent-app.git
 cd create-agent-app
 cd inspect_ai_example # or any other example
 ```
@@ -89,9 +88,6 @@ I am looking for contributors to help me expand this repo, both for adding new e
 
 - The examples should look as close to each other as possible, with the same features, changing only in the philosophical approach that each framework has. The examples are not meant to advertise features.
 
-**If you want to add a new use case example**, pick one of the list and start with a framework that you are most familiar with, try to follow the same simplicity approach as the other examples, if it's a brand new use case, this will define how all the other framework examples will be written, so it's good to have in mind what valuable distinct complexities this use case will show. [Join our Discord](https://discord.gg/kT4PhDS2gH) if you want to debate the idea.
-
-**If you have a request** [open an issue](https://github.com/langwatch/create-agent-app/issues) so contributors can help!
 
 ## License
 
